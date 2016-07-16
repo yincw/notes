@@ -16,6 +16,11 @@
 
 * Sublime-Style-Column-Selection ♥
 
+> 预览
+
+* preview ♥
+* svg-preview ♥
+
 > 自动完成
 
 * emmet ♥

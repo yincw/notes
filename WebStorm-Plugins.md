@@ -15,3 +15,7 @@
 > 代码缩略图
 
 * CodeGlance ♥
+
+> SVG 查看
+
+* SvgViewer 2
