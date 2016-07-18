@@ -21,6 +21,10 @@
 * preview ♥
 * svg-preview ♥
 
+> TODO
+
+* todo-show ♥
+
 > 自动完成
 
 * emmet ♥
@@ -51,6 +55,10 @@
 * markdown-pdf
 * tidy-markdown
 
+> RegExp
+
+* regex-railroad-diagram ♥
+
 ## Atom 扩展
 
 > 文件图标
@@ -77,3 +85,21 @@
 
 * terminal-plus ♥
 * script
+
+> debug
+
+* node-debugger
+
+> Remote
+
+* Remote-FTP ♥
+* remote-edit
+
+> Git
+
+* git-plus
+* git-time-machine
+* git-control ♥
+* git-blame
+* git-history
+* git-log
