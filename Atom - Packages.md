@@ -109,7 +109,7 @@
 
 > 远程
 
-* Remote-FTP ♥
+* Remote-FTP
 * remote-edit
 
 > Git

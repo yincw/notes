@@ -74,4 +74,18 @@
 
 > 调试
 
-* debugger-for-chrome
+* debugger-for-chrome ♥
+
+> 服务
+
+* vscode-express ♥
+* iis-express
+
+> 远程
+
+* ftp-sync
+
+> NPM
+
+* vscode-npm
+* vscode-npm-script
