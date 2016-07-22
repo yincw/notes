@@ -38,11 +38,12 @@
 > HTML
 
 * html-snippets ♥
-* html-css-class-completion ♥
+* html-css-class-completion
 
 > CSS
 
-*
+* vscode-instant-markdown ♥
+* Theme-MarkdownKit
 
 > JavaScript
 
@@ -80,6 +81,10 @@
 
 * vscode-express ♥
 * iis-express
+
+> 数据库连接
+
+* vscode-sql-connect
 
 > 远程
 
