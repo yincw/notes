@@ -44,6 +44,8 @@
 
 * vscode-instant-markdown ♥
 * Theme-MarkdownKit
+* vscode-markdownlint
+* markdown-toc
 
 > JavaScript
 
