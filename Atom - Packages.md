@@ -73,8 +73,8 @@
 
 > React
 
-* language-babel ♥
 * react ♥
+* language-babel ♥
 * language-cjsx
 
 ## 程序扩展
@@ -92,6 +92,7 @@
 * minimap ♥
 * minimap-highlight-selected ♥
 * minimap-find-and-replace ♥
+* minimap-git-diff ♥
 
 > 终端
 
