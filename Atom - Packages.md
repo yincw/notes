@@ -115,9 +115,13 @@
 
 > Git
 
-* git-control ♥
-* git-time-machine ♥
-* git-plus
-* git-blame
-* git-history
-* git-log
+Atom Packages | 特色
+---|---
+♥ git-time-machine | 查看历史提交记录（时间线风格）
+git-plus | Git 命令行模式
+♥ git-control | Git GUI模式
+git-blame | 文件上下文菜单，查看所有用户 Git 提交记录
+git-history | 命令行模式：显示自己 Git 提交的历史并查看
+git-log | 显示 Git 提交日志
+git-clone | 命令行模式：克隆 Git 地址
+tualo-git-context | 文件树上下文菜单中显示常用 Git 命令
