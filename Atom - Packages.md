@@ -116,8 +116,8 @@
 > Git
 
 * git-control ♥
+* git-time-machine ♥
 * git-plus
-* git-time-machine
 * git-blame
 * git-history
 * git-log
