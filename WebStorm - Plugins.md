@@ -10,10 +10,6 @@
 
 * SvgViewer 2 ♥
 
-> React
-
-* React-Templates
-
 ## 程序扩展
 
 > 缩略图
