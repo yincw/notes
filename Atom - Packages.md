@@ -7,8 +7,10 @@
 * emmet ♥
 * autocomplete-paths ♥
 * atom-ternjs ♥
+* atom-typescript
 * autocomplete-modules
 * javascript-snippets
+* turbo-javascript
 
 > 语法检测
 
@@ -65,11 +67,12 @@
 
 > HTML
 
-*
+* autocomplete-html-entities ♥
+* atom-css-class-checker ♥
 
 > CSS
 
-*
+* atom-css-comb
 
 > JavaScript
 
@@ -127,7 +130,7 @@ git-control ♥ | Git GUI模式
 git-blame | 文件上下文菜单，查看所有用户 Git 提交记录
 git-history | 命令行模式：显示自己 Git 提交的历史并查看
 git-log | 显示 Git 提交日志
-git-clone | 命令行模式：克隆 Git 地址
+git-clone ♥ | 命令行模式：克隆 Git 地址
 tualo-git-context | 文件树上下文菜单中显示常用 Git 命令
 
 > SVN
