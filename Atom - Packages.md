@@ -97,6 +97,7 @@
 > 缩略图
 
 * minimap ♥
+* highlight-selected ♥
 * minimap-highlight-selected ♥
 * minimap-find-and-replace ♥
 * minimap-git-diff ♥
@@ -109,6 +110,7 @@
 > 浏览器打开
 
 * browser-plus ♥
+* atom-live-server ♥
 * open-in-browser
 
 > 调试
