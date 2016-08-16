@@ -68,7 +68,7 @@
 > HTML
 
 * autocomplete-html-entities ♥
-* atom-css-class-checker ♥
+* atom-css-class-checker
 
 > CSS
 
