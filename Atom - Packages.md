@@ -62,7 +62,7 @@
 * markdown-scroll-sync ♥
 * markdown-toc ♥
 * markdown-folder ♥
-* markdown-pdf
+* markdown-pdf ♥
 * tidy-markdown
 
 > HTML
